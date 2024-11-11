@@ -48,15 +48,6 @@ Figure -02 HALF Subtractor
 
 5.	For different input combinations generate the timing diagram.
 
-#### Truthtable:
-
-![download](https://github.com/user-attachments/assets/07c839e0-4d6b-41a6-b978-05b5bfd1d5cc)
-
-
-![Half-Adder-Truth-Table-](https://github.com/user-attachments/assets/7e06b4a3-cdef-42af-8ada-ed3fc5c1f171)
-
-
-
 #### Program:
 ```
 module HALF_ADDER_AND_HALF_SUBTRACTOR (A,B,sum,carry,difference,borrow);
@@ -69,6 +60,12 @@ assign borrow=(~A)&B;
 endmodule
 ```
 
+#### Truthtable:
+
+![download](https://github.com/user-attachments/assets/07c839e0-4d6b-41a6-b978-05b5bfd1d5cc)
+
+
+![Half-Adder-Truth-Table-](https://github.com/user-attachments/assets/7e06b4a3-cdef-42af-8ada-ed3fc5c1f171)
 
 #### RTL OUTPUT:
 ![Screenshot (32)](https://github.com/user-attachments/assets/aee2e69f-bf5a-4cb9-bb63-8683a3d25c2e)
