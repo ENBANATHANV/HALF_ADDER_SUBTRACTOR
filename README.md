@@ -1,9 +1,9 @@
 
 #### NAME : ENBANATHAN V
 #### REG NO : 24001750
-#### EXPERIMENT-3 : HALF_ADDER_AND_SUBTRACTOR
+#### EXPERIMENT-3 : HALF ADDER AND SUBTRACTOR
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+
 
 ## AIM:
 
